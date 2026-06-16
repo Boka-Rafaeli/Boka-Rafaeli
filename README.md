@@ -62,7 +62,8 @@ open_to:  Remote QA Lead / SDET Lead roles
 
 ## Pinned — start here
 
-> Replace these once your showcase repos are ready.
+<!-- TODO: update this section later 
+> Replace these once your showcase repos are ready. -->
 
 - **`playwright-e2e-framework`** — POM architecture, parallel execution, test-data isolation, Allure reporting, GitHub Actions CI
 - **`api-testing-framework`** — REST validation + contract tests, CI-integrated health checks with Slack notifications
