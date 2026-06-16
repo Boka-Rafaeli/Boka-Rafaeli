@@ -60,7 +60,7 @@ open_to:  Remote QA Lead / SDET Lead roles
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white)
 
-## Pinned — start here
+## Showcase projects (in progress)
 
 <!-- TODO: update this section later 
 > Replace these once your showcase repos are ready. -->
