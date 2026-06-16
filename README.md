@@ -70,10 +70,11 @@ open_to:  Remote QA Lead / SDET Lead roles
 - **`k6-performance-suite`** — load/stress scenarios with Grafana dashboards (Dockerized)
 
 ---
-
+<!--
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Boka-Rafaeli&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boka-Rafaeli&layout=compact&hide_border=true)
 
 </div>
+-->
